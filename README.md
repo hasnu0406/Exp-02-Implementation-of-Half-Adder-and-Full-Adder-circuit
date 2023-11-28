@@ -45,10 +45,34 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+### HALF ADDER:
+![Screenshot 2023-11-28 142120](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/628f3c47-038f-4b98-b069-af5a12b3b0fc)
 
+### FULL ADDER:
+![Screenshot 2023-11-28 142328](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/5a6080a8-70af-46c7-8d42-73c29c7e881b)
+
+### RTL
+### HALF ADDER:
+![HALF ADDER DIAGRAM](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/53678d65-f234-4b33-922e-513906b5e79f)
+
+### FULL ADDER:
+![FULL ADDER-DIAGRAM](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/f9ebd6aa-3f42-4209-b16b-9b5d1d5d0f17)
+
+
+### TIMING DIAGRAM
+### HALF ADDER:
+![HALF ADDER WAVEFORM](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/2d3fcfb2-c3c0-4549-aed2-8216f45ce44e)
+
+### FULL ADDER:
+![FULL ADDER-WAVEFORM](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/e2046a2c-9cb7-45ba-9253-4e09d5678e0e)
 
 ### TRUTH TABLE 
+### HALF ADDER:
+![Screenshot 2023-11-28 141806](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/50d28ccd-d35e-44c1-9b62-829c6ae95d8e)
+
+### FULL ADDER:
+![Screenshot 2023-11-28 141759](https://github.com/hasnu0406/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/135305537/deeb0b64-749c-4688-8c66-a662d8d811e4)
+
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog proramming.
